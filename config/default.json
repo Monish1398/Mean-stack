@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://monish:monish1234@reactapp.tetbg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
